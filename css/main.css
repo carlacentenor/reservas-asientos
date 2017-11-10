@@ -1,0 +1,15 @@
+.first-class {
+  background-color: #1bf5db;
+
+}
+
+.economic-class {
+  background-color: #f272c3;
+}
+
+.seats {
+  display: inline-block;
+  width :200px;
+  height: 100px;
+  border: 1px solid black;
+}
